@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+}
+
+.main_form{
+    display: flex;
+    /* margin-right: 10px; */
+    padding-left: 20px;
+    /* justify-content: center; */
+
+    border: black;
+}
+
+.form_main_div{
+    /* display: block; */
+    /* background-color: turquoise; */
+    /* box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset; */
+    box-shadow: white;
+    height: 200px;
+    width: 200px;
+    background-color: purple;
+}
+.btn_remove{
+    border-radius: 10px ;
+    margin-top: 80px;
+    margin-left: 120px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+input{
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.btn_addfield{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.btn_submit{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
